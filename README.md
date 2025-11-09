@@ -150,7 +150,7 @@ For detailed instructions on Raspberry Pi setup, refer to the documentation in t
 
 ## Contact
 
-Project Link: (https://github.com/AkhilMudumba/tomato_disease_detection_app)
+Project Link: (https://github.com/AkhilMudumba/Tomato-Disease-Detection-With-Computer-Vision/blob/main/README.md)
 
 ---
 *This project aims to support sustainable agriculture through early disease detection and intervention, potentially reducing crop losses and pesticide usage.*
